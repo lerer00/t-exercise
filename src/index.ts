@@ -4,6 +4,6 @@ import { ApiManager } from './apiManager';
 
 const apiManager: ApiManager = DIContainer.resolve<ApiManager>(ApiManager);
 
-var x = apiManager.fetchData();
-
-console.log(x);
+apiManager.fetchData().then(d => {
+    console.log(d);
+});
