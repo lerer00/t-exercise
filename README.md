@@ -1,6 +1,6 @@
 #  t-exercise
 
-Base on boiletplate project for typescript project https://github.com/stemmlerjs/simple-typescript-starter.
+Based on boilerplate project for typescript https://github.com/stemmlerjs/simple-typescript-starter.
 
 ### Scripts
 
